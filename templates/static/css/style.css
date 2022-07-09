@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+.bg-dark{
+    background-color: rgb(255, 255, 255);
+}
+
+body .h1{
+    background-color: white;
+}
+.mt-50{
+    margin-top: 50px;
+    
+}
